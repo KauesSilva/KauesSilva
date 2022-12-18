@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%AA-santos-a084b7256)
 
 ![Kauê GitHub stats](https://github-readme-stats.vercel.app/api?username=KauesSilva&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauesSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
