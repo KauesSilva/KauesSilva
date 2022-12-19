@@ -41,15 +41,6 @@ I am a 17 years old Systems Development Technician. I love to code and solving p
     </a>
 </div>
 
-### Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaue-s-silva)
-
 ### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/KauesSilva"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=KauesSilva&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="KauesSilva's GitHub stats" /></a>
-
 
 <a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
