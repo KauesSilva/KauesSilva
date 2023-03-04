@@ -39,11 +39,14 @@ I am a 17 years old Systems Development Technician. I love to code and solving p
     <a href="https://dev.mysql.com/doc/" target="_blank">
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </a>
-    <a href="https://dev.mysql.com/doc/" target="_blank">
+    <a href="https://www.typescriptlang.org/docs/" target="_blank">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     </a>
-        <a href="https://dev.mysql.com/doc/" target="_blank">
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </a>
 </div>
 
