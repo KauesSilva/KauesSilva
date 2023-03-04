@@ -42,6 +42,9 @@ I am a 17 years old Systems Development Technician. I love to code and solving p
     <a href="https://dev.mysql.com/doc/" target="_blank">
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     </a>
+        <a href="https://dev.mysql.com/doc/" target="_blank">
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    </a>
 </div>
 
 ### Badges
