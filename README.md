@@ -8,7 +8,7 @@ I am a 17 years old Systems Development Technician. I love to code and solving p
 
 * 🌍  I'm based in São Vicente, Brazil
 * ✉️  You can contact me at [kauessilva@gmail.com](mailto:kauessilva00@gmail.com)
-* 🧠  I'm learning Advanced Javascript and React
+* 🧠  I'm learning React and TypeScript
 * 🤝  I'm open to collaborating on projects
 * 🖋️  I love draw and watch animes
 
