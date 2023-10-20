@@ -4,7 +4,7 @@ Hi 👋 My name is Kauê
 Full Stack Software Developer
 -----------------------------
 
-I am a 17 years old Systems Development Technician. I love to code and solving problems through technology. My main focus is front and back-end development, developing systems that can add to people's lives.
+I am a 18 years old Systems Development Technician. I love to code and solving problems through technology. My main focus is front and back-end development, developing systems that can add to people's lives.
 
 * 🌍  I'm based in São Vicente, Brazil
 * ✉️  You can contact me at [kauessilva@gmail.com](mailto:kauessilva00@gmail.com)
